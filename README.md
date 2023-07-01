@@ -1,1 +1,1 @@
-# My-Java-Projects
+# Mini-Java-Projects
